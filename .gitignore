@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignorar entorno virtual
+vehicles_env/
+
+# Ignorar archivos temporales de Jupyter y Python
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
