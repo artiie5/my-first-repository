@@ -140,4 +140,4 @@ vehicles_env/
 !requirements.txt
 !app.py
 !vehicles_us.csv  # Archivo CSV necesario para leer datos en la app
-!README.md
+!README.mdtest_env/
