@@ -1,5 +1,4 @@
 pandas
 plotly_express
 streamlit
-vehicles_us.csv
 
