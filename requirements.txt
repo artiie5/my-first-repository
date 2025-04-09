@@ -1,0 +1,16 @@
+pandas
+ plotly_express
+ streamlit
+ streamlit-plotly-events
+ numpy
+ matplotlib
+ plotly
+ openpyxl
+ scikit-learn
+ statsmodels
+ joblib
+ datetime
+ requests
+ tqdm
+ matplotlib-venn
+
