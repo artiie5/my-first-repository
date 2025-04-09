@@ -134,6 +134,7 @@ cython_debug/
 # Excluir archivos innecesarios para el repositorio
 logs/
 config/
+vehicles_env/
 
 # Asegúrate de no ignorar archivos clave del proyecto
 !requirements.txt
